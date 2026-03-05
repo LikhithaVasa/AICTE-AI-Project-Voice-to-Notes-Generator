@@ -1,0 +1,15 @@
+Q1:  Click on login and select student?
+Answer: ______________________
+
+Q2: Now you have to login using your Google account, please click on login with Google?
+Answer: ______________________
+
+Q3: Select the mail ID that you have provided with us?
+Answer: ______________________
+
+Q4: If you are logging in for the first time, you will have to complete your profile?
+Answer: ______________________
+
+Q5: Select the topics that you are interested in and click on continue?
+Answer: ______________________
+
